@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<gom.OHL>
+<ov size="26">
+<o id="0">
+<gom.std.OSymbol label="door1" x0="1280.910406" y0="493.44241" x1="1590.783134" y1="801.456923" resize="5.161720573524509" morph="7.2" direction="0.0"/>
+</o>
+<o id="1">
+<gom.std.OSymbol label="window2" x0="253.119283" y0="361.696194" x1="327.213958" y1="776.38176" resize="6.839174582377989" morph="7.2" direction="270.0"/>
+</o>
+<o id="2">
+<gom.std.OSymbol label="window2" x0="3895.852414" y0="1164.291426" x1="3946.9901" y1="1433.877066" resize="4.386505076973469" morph="7.2" direction="90.0"/>
+</o>
+<o id="3">
+<gom.std.OSymbol label="window1" x0="253.283828" y0="1452.397414" x1="365.416207" y1="1887.983946" resize="7.207088939940926" morph="7.2" direction="270.0"/>
+</o>
+<o id="4">
+<gom.std.OSymbol label="door1" x0="2433.312108" y0="898.35152" x1="2752.945531" y1="1216.066223" resize="5.329776592197399" morph="7.2" direction="180.0"/>
+</o>
+<o id="5">
+<gom.std.OSymbol label="door1" x0="2115.69966" y0="1421.58002" x1="2425.572389" y1="1729.594534" resize="5.161720573524509" morph="7.2" direction="180.0"/>
+</o>
+<o id="6">
+<gom.std.OSymbol label="table2" x0="419.934712" y0="421.776151" x1="822.846712" y1="778.752151" resize="3.9600000000000004" morph="7.2" direction="0.0"/>
+</o>
+<o id="7">
+<gom.std.OSymbol label="armchair" x0="1793.135567" y0="1816.697333" x1="2037.964367" y1="2061.526133" resize="3.9600000000000004" morph="7.2" direction="270.0"/>
+</o>
+<o id="8">
+<gom.std.OSymbol label="table1" x0="1479.920483" y0="203.772337" x1="1712.733134" y1="437.040475" resize="3.7957166392092256" morph="7.2" direction="0.0"/>
+</o>
+<o id="9">
+<gom.std.OSymbol label="tub" x0="2581.740558" y0="1798.326338" x1="2766.060558" y1="2199.654338" resize="3.9600000000000004" morph="7.2" direction="270.0"/>
+</o>
+<o id="10">
+<gom.std.OSymbol label="sink4" x0="2051.27361" y0="1852.219292" x1="2248.04961" y1="2046.043292" resize="3.9600000000000004" morph="7.2" direction="90.0"/>
+</o>
+<o id="11">
+<gom.std.OSymbol label="sink3" x0="535.631422" y0="204.032959" x1="816.258622" y1="346.060159" resize="3.9600000000000004" morph="7.2" direction="0.0"/>
+</o>
+<o id="12">
+<gom.std.OSymbol label="table2" x0="664.513283" y0="971.364125" x1="1079.340944" y1="1343.516771" resize="3.9600000000000004" morph="7.2" direction="356.0"/>
+</o>
+<o id="13">
+<gom.std.OSymbol label="table1" x0="2039.393912" y0="950.326913" x1="2272.206564" y1="1183.595051" resize="3.7957166392092256" morph="7.2" direction="0.0"/>
+</o>
+<o id="14">
+<gom.std.OSymbol label="window2" x0="252.619344" y0="944.801089" x1="330.025122" y1="1380.414532" resize="7.192924991811333" morph="7.2" direction="270.0"/>
+</o>
+<o id="15">
+<gom.std.OSymbol label="window2" x0="3867.640232" y0="1509.686719" x1="3945.04601" y1="1945.300162" resize="7.192924991811333" morph="7.2" direction="90.0"/>
+</o>
+<o id="16">
+<gom.std.OSymbol label="table3" x0="4570.285712" y0="1221.52712" x1="5035.058748" y1="1687.619531" resize="3.9600000000000004" morph="7.2" direction="214.0"/>
+</o>
+<o id="17">
+<gom.std.OSymbol label="bed" x0="3441.065231" y0="739.192514" x1="3661.856831" y1="1080.486918" resize="3.9600000000000004" morph="7.2" direction="0.0"/>
+</o>
+<o id="18">
+<gom.std.OSymbol label="table1" x0="3354.619298" y0="1197.840546" x1="3587.43195" y1="1431.108684" resize="3.7957166392092256" morph="7.2" direction="0.0"/>
+</o>
+<o id="19">
+<gom.std.OSymbol label="door1" x0="2797.885386" y0="1122.65402" x1="3106.59277" y1="1433.223943" resize="5.173724574858286" morph="7.2" direction="90.0"/>
+</o>
+<o id="20">
+<gom.std.OSymbol label="sofa2" x0="2910.855902" y0="2031.169972" x1="3422.164543" y1="2391.22966" resize="3.9600000000000004" morph="7.2" direction="21.999975051197247"/>
+</o>
+<o id="21">
+<gom.std.OSymbol label="table1" x0="3411.969214" y0="1664.897983" x1="3684.030048" y1="1937.899966" resize="3.9600000000000004" morph="7.2" direction="8.0"/>
+</o>
+<o id="22">
+<gom.std.OSymbol label="armchair" x0="2977.518726" y0="1584.275879" x1="3271.297964" y1="1888.613496" resize="3.9600000000000004" morph="7.2" direction="111.0"/>
+</o>
+<o id="23">
+<gom.std.OSymbol label="sink3" x0="1033.551752" y0="205.250368" x1="1314.178952" y1="347.277568" resize="3.9600000000000004" morph="7.2" direction="0.0"/>
+</o>
+<o id="24">
+<gom.std.OSymbol label="armchair" x0="5850.565981" y0="1665.276426" x1="6135.812539" y1="1958.7749" resize="3.9600000000000004" morph="7.2" direction="74.0"/>
+</o>
+<o id="25">
+<gom.std.OSymbol label="armchair" x0="1290.839522" y0="1818.96989" x1="1613.732926" y1="2143.727395" resize="3.9600000000000004" morph="7.2" direction="48.00001403060998"/>
+</o>
+</ov>
+<av size="0">
+</av></gom.OHL>
